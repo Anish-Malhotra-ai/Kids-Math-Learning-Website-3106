@@ -133,9 +133,6 @@ const LoginScreen = ({ onLogin }) => {
         </form>
       </motion.div>
       
-      <div className="absolute bottom-4 right-4 text-white text-sm font-medium opacity-80">
-        Created and supported with ❤️ by BPA Solutions
-      </div>
     </div>
   );
 };
